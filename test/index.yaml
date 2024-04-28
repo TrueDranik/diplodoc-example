@@ -1,0 +1,10 @@
+title: Шаблон документации
+links:
+  - title: О сервисе
+    href: about.md
+  - title: Страница Диплодока на индексной странице
+    href: page.md
+  - title: Структура YFM на главной странице
+    href: anotherpage.md
+  - title: Подраздел на главной странице
+    href: sub-section/
